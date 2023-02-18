@@ -1,5 +1,5 @@
 class Cat {
-    private String name;
+    private String name = "Cat";
 
     
 }
