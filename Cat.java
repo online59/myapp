@@ -1,4 +1,4 @@
-class Cat {
+class Cat implements Moveable {
     private String name;
 
     
